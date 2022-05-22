@@ -2,28 +2,28 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', sans-serif;
-    color: #40514E;
+    color: #1a29ce;
     background-color: #eb739f;
 }
 h1 {
     margin-top: 50px auto 0 auto;
     font-family: 'Merriweather';
     font-size: 5.625rem;
-    color: #5c90b3;
+    color: #11999;
     line-height: .5;
 }
 
 h2 {
     font-family: 'Meriweather', serif;
     font-size: 2.5rem;
-    color: #2cd5e4;
+    color: #e42c9a;
     font-weight: normal;
     padding-bottom: 10px;
 }
 
 h3 {
     font-family: 'Meriweather', serif;
-    color: #91ccce;
+    color: #bace91;
 }
 
 
@@ -44,9 +44,13 @@ padding-top: 100px;
   
 }
 
-.pic1 {
+.delorian {
 width: 200px;
 height: 200px;
+}
+.rollers {
+    width: 200px;
+    height: 200px;
 }
 
 .pic2 {
@@ -68,7 +72,7 @@ height: 200px;
 
 .bottom-container {
     height: 100px;
-    background-color: #F7B5CD;
+    background-color: #ACC5DA;
 }
 
 .skill-row {
