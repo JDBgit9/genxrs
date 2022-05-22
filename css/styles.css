@@ -51,6 +51,13 @@ padding-top: 100px;
     left: 1000px;
     top: 20px;
 }
+.cassette {
+    width: 15%;
+    height: 110px;
+    position: absolute;
+    right: 1000px;
+    
+}
 
 
 .polaroid {
