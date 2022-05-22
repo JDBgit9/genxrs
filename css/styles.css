@@ -3,27 +3,27 @@ body {
     text-align: center;
     font-family: 'Merriweather', sans-serif;
     color: #40514E;
-    background-color: #b078bc;
+    background-color: #eb739f;
 }
 h1 {
     margin-top: 50px auto 0 auto;
     font-family: 'Merriweather';
     font-size: 5.625rem;
-    color: #1596bd;
+    color: #5c90b3;
     line-height: .5;
 }
 
 h2 {
     font-family: 'Meriweather', serif;
     font-size: 2.5rem;
-    color: #66BFBF;
+    color: #2cd5e4;
     font-weight: normal;
     padding-bottom: 10px;
 }
 
 h3 {
     font-family: 'Meriweather', serif;
-    color: #11999E;
+    color: #91ccce;
 }
 
 
@@ -32,7 +32,7 @@ p {
 }
 
 .top-container {
-background-color: #F7B5CD;
+background-color: #ACC5DA;
 padding-left: 10px;
 position: relative;
 padding-top: 100px;
@@ -40,7 +40,7 @@ padding-top: 100px;
 
 .middle-container {
     margin: 100px 0;
-    background-color: #F7B5CD;
+    background-color: #ACC5DA;
   
 }
 
