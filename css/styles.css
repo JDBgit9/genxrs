@@ -7,7 +7,7 @@ body {
 }
 h1 {
     margin-top: 50px auto 0 auto;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Merriweather';
     font-size: 5.625rem;
     color: #66BFBF;
     line-height: .5;
@@ -25,16 +25,14 @@ h3 {
     font-family: 'Meriweather', serif;
     color: #11999E;
 }
-.pro  {
-   text-decoration: underline; 
-}
+
 
 p {
     line-height: 2;
 }
 
 .top-container {
-background-color: #BFFFF0;
+background-color: #814b9e;
 padding-left: 10px;
 position: relative;
 padding-top: 100px;
