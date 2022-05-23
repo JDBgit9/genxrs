@@ -20,6 +20,9 @@ h2 {
     color: #e42c9a;
     font-weight: normal;
     padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    left: 25px;
 }
 
 h3 {
@@ -103,6 +106,9 @@ hr {
     border-color: grey;
     border-width: 5px;
     width: 10%;
+    position: relative;
+    left: 100px;
+ 
 }
 
 .btn {
