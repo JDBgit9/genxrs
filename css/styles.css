@@ -32,6 +32,7 @@ p {
     line-height: 2;
 }
 
+
 .glroidcir {
    width: 10%;
     position: absolute;
@@ -48,6 +49,13 @@ p {
 .polaroidcirc {
 width: 200px;
 height: 200px;
+}
+
+.nintendo {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    right: 1200px;
 }
 
 .deloriancirc {
